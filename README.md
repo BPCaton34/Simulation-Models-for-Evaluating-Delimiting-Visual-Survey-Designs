@@ -3,7 +3,9 @@ Probabilistic models used to evaluate a novel visual survey design methodology b
 
 The associated files were created for the following proposed manuscript:
 A novel design method for customized visual delimiting surveys for plant pests based on transects and scouting
+
 Barney P. Caton1, Godshen R. Pallipparambil2, and Hui Fang2 
+
 1 United States Department of Agriculture, Animal and Plant Health Inspection Service, Plant Protection and Quarantine, 920 Main Campus Drive, Raleigh NC 27606
 2 Center for Integrated Pest Management, North Carolina State University, 1730 Varsity Drive, Raleigh, NC 27606
 
