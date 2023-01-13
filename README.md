@@ -1,6 +1,11 @@
 # Simulation-Models-for-Evaluating-Delimiting-Visual-Survey-Designs
 Probabilistic models used to evaluate a novel visual survey design methodology based on transect data and scouting, for five case studies 
 
+The associated files were created for the following proposed manuscript:
+A novel design method for customized visual delimiting surveys for plant pests based on transects and scouting
+Barney P. Caton1, Godshen R. Pallipparambil2, and Hui Fang2 
+1 United States Department of Agriculture, Animal and Plant Health Inspection Service, Plant Protection and Quarantine, 920 Main Campus Drive, Raleigh NC 27606
+2 Center for Integrated Pest Management, North Carolina State University, 1730 Varsity Drive, Raleigh, NC 27606
 
 We identified published delimitation survey plans or results of activities for six species. One is a plan for a pest plant (or weeds), which was not simulated; the other five species have host plants. Using available information, we created customized DTDS plans for each species, and then compared the sampling effort required to complete the original and novel plans, for localized populations. We used simulations in five of the case studies to compare the results under uncertainty and to evaluate outcomes when mapped spatially. 
 
